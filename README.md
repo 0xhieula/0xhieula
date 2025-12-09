@@ -4,14 +4,14 @@ I am just an ordinary person among ordinary people. HEHE
 
 ### 📫 Connect With Me
 
-- **Email:** hrcp.hieu@gmail.com@gmail.com
+- **Email:** [hrcp.hieu@gmail.com](hrcp.hieu@gmail.com)
 - **Telegram:** [@auror198](https://t.me/auror198)
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieula198&show_icons=true&theme=radical)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hieula198&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieula198&layout=compact&theme=radical)
+![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=hieula198&layout=compact&theme=dark)
 
 ---
 
